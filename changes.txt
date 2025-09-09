@@ -1,2 +1,3 @@
 Change in feature-1
 Change in feature-2
+Change in feature-3
